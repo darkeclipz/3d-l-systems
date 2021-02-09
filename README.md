@@ -4,6 +4,14 @@ Renders [L-systems](https://en.wikipedia.org/wiki/L-system) in 3D.
 
 [Click here to go to the renderer](https://darkeclipz.github.io/3d-l-systems/)
 
+## Example 1: Plant
+
+![demo1](demo1.PNG)
+
+## Example 2: Sierpinski
+
+![demo1](demo2.PNG)
+
 ## Ruleset
 
  * `F` : Forward.
