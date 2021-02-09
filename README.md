@@ -10,7 +10,7 @@ Renders [L-systems](https://en.wikipedia.org/wiki/L-system) in 3D.
 
 ## Example 2: Sierpinski
 
-![demo1](demo2.PNG)
+![demo1](demo2.PNG) 
 
 ## Ruleset
 
